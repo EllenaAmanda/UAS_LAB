@@ -1,0 +1,25 @@
+body,html{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.table-container{
+    max-height: 640px;
+    overflow-y: auto;
+}
+
+.table td{
+    font-size: 12px;
+}
+
+.table th{
+    font-size: 14px;
+}
+
+.cover-img{
+    object-fit: cover;
+    width: 200px;
+    height:200px;
+}

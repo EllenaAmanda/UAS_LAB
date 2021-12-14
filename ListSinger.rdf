@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/"
+    xmlns:dbo="http://dbpedia.org/ontology/"
+    xmlns:dbp="http://dbpedia.org/property/"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Raisa">
+            <dbp:name>Raisa</dbp:name>
+            <dbo:birthDate>1990-06-06</dbo:birthDate>
+            <dbo:birthPlace>Jakarta, Indonesia</dbo:birthPlace>
+            <dbo:activeYearsStartYear>2008-01-01</dbo:activeYearsStartYear>
+            <rdfs:comment>Raisa Andriana, better known by her mononym Raisa (born in Jakarta on 6 June 1990), is an Indonesian singer and songwriter. She became publicly known for her song titled "Serba Salah". Prior to her solo career, she was one of the lead vocalist of Kevin Aprilio's band, Andante, which later renamed as Vierra (now Vierratale).</rdfs:comment>
+            <foaf:image rdf:resource="https://id.wikipedia.org/wiki/Raisa"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Tulus">
+            <dbp:name>Tulus</dbp:name>
+            <dbo:birthDate>1987-08-20</dbo:birthDate>
+            <dbo:birthPlace>Bukittinggi, Indonesia</dbo:birthPlace>
+            <dbo:activeYearsStartYear>2011-01-01</dbo:activeYearsStartYear>
+            <rdfs:comment>Muhammad Tulus Rusydi or better known by his mononym Tulus (born in Bukittinggi, West Sumatera, Indonesia on August 20, 1987) is an Indonesian singer and songwriter of Minangkabau descent.</rdfs:comment>
+            <foaf:image rdf:resource="https://id.wikipedia.org/wiki/Tulus"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Rachel_Amanda">
+            <dbp:name>Rachael Amanda</dbp:name>
+            <dbo:birthDate>1995-01-01</dbo:birthDate>
+            <dbo:birthPlace>Jakarta, Indonesia</dbo:birthPlace>
+            <dbo:activeYearsStartYear>1998-01-01</dbo:activeYearsStartYear>
+            <rdfs:comment>Rachel Amanda Aurora or better known as Rachel Amanda (born in Jakarta, Indonesia on January 1, 1995) is an Indonesian actress and singer of Javanese descent.</rdfs:comment>
+            <foaf:image rdf:resource="https://id.wikipedia.org/wiki/Rachel_Amanda"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Agnez_Mo">
+            <dbp:name>Rachael Amanda</dbp:name>
+            <dbo:birthDate>1986-07-01</dbo:birthDate>
+            <dbo:birthPlace>Jakarta, Indonesia</dbo:birthPlace>
+            <dbo:activeYearsStartYear>1992-01-01</dbo:activeYearsStartYear>
+            <rdfs:comment>Agnes Monica Muljoto (born 1 July 1986), known professionally as Agnez Mo (stylized as all caps), is an Indonesian diva, singer, songwriter, music producer, actress, dancer, model, and a businesswoman. She was professionally known as Agnes Monica before amending her new stage name. She is known for her image reinventions and musical versatility through her careers.</rdfs:comment>
+            <foaf:image rdf:resource="https://id.wikipedia.org/wiki/Agnez_Mo"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Titi_DJ">
+            <dbp:name>Titi Dj</dbp:name>
+            <dbo:birthDate>1966-05-27</dbo:birthDate>
+            <dbo:birthPlace>Jakarta, Indonesia</dbo:birthPlace>
+            <dbo:activeYearsStartYear>1983-01-01</dbo:activeYearsStartYear>
+            <rdfs:comment>Titi Dwi Jayati (born 27 May 1966), known as Titi DJ, is an Indonesian pop diva singer, songwriter, and talent show judge. She was a judge on Indonesian Idol from season 1 to 5 and season 8, Golden Memories Vol.1 and 2, Q Academy season 1, The Voice Indonesia season 3 and 4. She is known for the song "Sang Dewi".</rdfs:comment>
+            <foaf:image rdf:resource="https://id.wikipedia.org/wiki/Titi_DJ"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Bunga_Citra_Lestari">
+            <dbp:name>Bunga Citra Lestari</dbp:name>
+            <dbo:birthDate>1983-03-22</dbo:birthDate>
+            <dbo:birthPlace>Jakarta, Indonesia</dbo:birthPlace>
+            <dbo:activeYearsStartYear>1997-01-01</dbo:activeYearsStartYear>
+            <rdfs:comment>Bunga Citra Lestari (born 22 March 1983), often referred to by her initial BCL, is an Indonesian singer, actress, talent show judge, and television personality.</rdfs:comment>
+            <foaf:image rdf:resource="https://id.wikipedia.org/wiki/Bunga_Citra_Lestari"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Once_Mekel">
+            <dbp:name>Irwansyah</dbp:name>
+            <dbo:birthDate>1970-05-21</dbo:birthDate>
+            <dbo:birthPlace>Makassar, Indonesia</dbo:birthPlace>
+            <dbo:activeYearsStartYear>1991-01-01</dbo:activeYearsStartYear>
+            <rdfs:comment>Elfonda Mekel (born 21 May 1970), better known by his stage name Once ([ˈɔntʃə], pronounced Ohn-chè), is an Indonesian singer and former lead vocalist of Dewa 19.</rdfs:comment>
+            <foaf:image rdf:resource="https://id.wikipedia.org/wiki/Once_Mekel"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Glenn_Fredly">
+            <dbp:name>Rich Brian</dbp:name>
+            <dbo:birthDate>1999-09-03</dbo:birthDate>
+            <dbo:birthPlace>Jakarta, Indonesia</dbo:birthPlace>
+            <dbo:activeYearsStartYear>2015-01-01</dbo:activeYearsStartYear>
+            <rdfs:comment>Brian Imanuel Soewarno (born 3 September 1999), professionally known as Rich Brian and formerly as Rich Chigga, is an Indonesian rapper, singer, songwriter, and record producer. He is known for his viral debut single "Dat $tick", which was first released in March 2016 on SoundCloud. The single was later certified gold by RIAA. His debut studio album, Amen, was released in February 2018, and peaked at number 18 on the US Billboard 200. Brian's second studio album, The Sailor, was released on 26 July 2019. He released an EP titled 1999 on 25 August 2020.Brian has collaborated with many artists from China and South Korea such as Kris Wu, Chungha, Keith Ape, Jackson Wang and Jae Park.</rdfs:comment>
+            <foaf:image rdf:resource="https://id.wikipedia.org/wiki/Glenn_Fredly"/>
+</rdf:Description>
+</rdf:RDF>
